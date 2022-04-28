@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\bin\Debug\net6.0\solo_prep_2.exe
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\bin\Debug\net6.0\solo_prep_2.deps.json
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\bin\Debug\net6.0\solo_prep_2.runtimeconfig.json
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\bin\Debug\net6.0\solo_prep_2.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\bin\Debug\net6.0\solo_prep_2.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\refint\solo_prep_2.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\solo_prep_2.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\solo_prep_2\obj\Debug\net6.0\ref\solo_prep_2.dll
