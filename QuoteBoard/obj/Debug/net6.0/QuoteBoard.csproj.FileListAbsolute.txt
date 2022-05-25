@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\bin\Debug\net6.0\QuoteBoard.exe
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\bin\Debug\net6.0\QuoteBoard.deps.json
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\bin\Debug\net6.0\QuoteBoard.runtimeconfig.json
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\bin\Debug\net6.0\QuoteBoard.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\bin\Debug\net6.0\QuoteBoard.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\refint\QuoteBoard.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\QuoteBoard.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210\QuoteBoard\obj\Debug\net6.0\ref\QuoteBoard.dll
