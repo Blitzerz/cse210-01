@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj": {}
+    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_2\\assignment_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj": {
+    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_2\\assignment_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj",
-        "projectName": "QuoteBoard",
-        "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_2\\assignment_2.csproj",
+        "projectName": "assignment_2",
+        "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_2\\assignment_2.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\bin\Debug\net6.0\hilo_specification.exe
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\bin\Debug\net6.0\hilo_specification.deps.json
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\bin\Debug\net6.0\hilo_specification.runtimeconfig.json
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\bin\Debug\net6.0\hilo_specification.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\bin\Debug\net6.0\hilo_specification.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\refint\hilo_specification.dll
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.pdb
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\hilo_specification.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Desktop\cse_210 team\hilo_specification\obj\Debug\net6.0\ref\hilo_specification.dll

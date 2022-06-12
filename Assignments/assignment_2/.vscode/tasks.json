@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/cse210-student-articulate-csharp-complete-main/Unit02/Unit02.csproj",
+                "${workspaceFolder}/assignment_2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/cse210-student-articulate-csharp-complete-main/Unit02/Unit02.csproj",
+                "${workspaceFolder}/assignment_2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/cse210-student-articulate-csharp-complete-main/Unit02/Unit02.csproj"
+                "${workspaceFolder}/assignment_2.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

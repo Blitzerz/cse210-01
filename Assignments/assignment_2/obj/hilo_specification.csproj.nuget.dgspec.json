@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj": {}
+    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210 team\\hilo_specification\\hilo_specification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj": {
+    "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210 team\\hilo_specification\\hilo_specification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj",
-        "projectName": "QuoteBoard",
-        "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\QuoteBoard.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210 team\\hilo_specification\\hilo_specification.csproj",
+        "projectName": "hilo_specification",
+        "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210 team\\hilo_specification\\hilo_specification.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\quoteboard\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210 team\\hilo_specification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
