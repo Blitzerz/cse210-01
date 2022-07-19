@@ -1,17 +1,11 @@
 using System.Collections.Generic;
 using System.Reflection.Metadata;
 using Raylib_cs;
-using Unit05.Game.Casting;
+using assignment_5.Game.Casting;
 
 
-namespace Unit05.Game.Services
+namespace assignment_5.Game.Services
 {
-    /// <summary>
-    /// <para>Outputs the game state.</para>
-    /// <para>
-    /// The responsibility of the class of objects is to draw the game state on the screen. 
-    /// </para>
-    /// </summary>
     public class VideoService
     {
         private bool debug = false;
@@ -19,7 +13,6 @@ namespace Unit05.Game.Services
         /// <summary>
         /// Constructs a new instance of KeyboardService using the given cell size.
         /// </summary>
-        /// <param name="cellSize">The cell size (in pixels).</param>
         public VideoService(bool debug)
         {
             this.debug = debug;
@@ -50,7 +43,6 @@ namespace Unit05.Game.Services
         /// <summary>
         /// Draws the given actor's text on the screen.
         /// </summary>
-        /// <param name="actor">The actor to draw.</param>
         public void DrawActor(Actor actor)
         {
             string text = actor.GetText();
@@ -65,7 +57,6 @@ namespace Unit05.Game.Services
         /// <summary>
         /// Draws the given list of actors on the screen.
         /// </summary>
-        /// <param name="actors">The list of actors to draw.</param>
         public void DrawActors(List<Actor> actors)
         {
             foreach (Actor actor in actors)
@@ -86,7 +77,6 @@ namespace Unit05.Game.Services
         /// <summary>
         /// Whether or not the window is still open.
         /// </summary>
-        /// <returns>True if the window is open; false if otherwise.</returns>
         public bool IsWindowOpen()
         {
             return !Raylib.WindowShouldClose();
@@ -119,8 +109,6 @@ namespace Unit05.Game.Services
         /// <summary>
         /// Converts the given color to it's Raylib equivalent.
         /// </summary>
-        /// <param name="color">The color to convert.</param>
-        /// <returns>A Raylib color.</returns>
         private Raylib_cs.Color ToRaylibColor(Casting.Color color)
         {
             int r = color.GetRed();

@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\cse210-student-articulate-csharp-complete\\Unit05\\Unit05.csproj",
-      "projectName": "Unit05",
-      "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\cse210-student-articulate-csharp-complete\\Unit05\\Unit05.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_5\\assignment_5.csproj",
+      "projectName": "assignment_5",
+      "projectPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_5\\assignment_5.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\cse210-student-articulate-csharp-complete\\Unit05\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\OneDrive\\Desktop\\cse_210\\Assignments\\assignment_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,20 +1,15 @@
 using System;
 
 
-namespace Unit05.Game.Casting
+namespace assignment_5.Game.Casting
 {
-    /// <summary>
-    /// <para>A tasty item that snakes like to eat.</para>
-    /// <para>
-    /// The responsibility of Food is to select a random position and points that it's worth.
-    /// </para>
-    /// </summary>
+
     public class Food : Actor
     {
         private int points = 0;
 
         /// <summary>
-        /// Constructs a new instance of an Food.
+        /// Constructs a new instance of a Food.
         /// </summary>
         public Food()
         {
@@ -26,7 +21,6 @@ namespace Unit05.Game.Casting
         /// <summary>
         /// Gets the points this food is worth.
         /// </summary>
-        /// <returns>The points.</returns>
         public int GetPoints()
         {
             return points;

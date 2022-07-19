@@ -1,19 +1,15 @@
-using Unit05.Game.Casting;
-using Unit05.Game.Services;
+using assignment_5.Game.Casting;
+using assignment_5.Game.Services;
+using System.Collections.Generic;
 
-
-namespace Unit05.Game.Scripting
+namespace assignment_5.Game.Scripting
 {
-    /// <summary>
-    /// <para>An input action that controls the snake.</para>
-    /// <para>
-    /// The responsibility of ControlActorsAction is to get the direction and move the snake's head.
-    /// </para>
-    /// </summary>
     public class ControlActorsAction : Action
     {
         private KeyboardService keyboardService;
-        private Point direction = new Point(Constants.CELL_SIZE, 0);
+        private Point direction = new Point(0, -1 * Constants.CELL_SIZE);
+        private Point direction2 = new Point(0, -1 * Constants.CELL_SIZE);
+
 
         /// <summary>
         /// Constructs a new instance of ControlActorsAction using the given KeyboardService.
@@ -26,33 +22,59 @@ namespace Unit05.Game.Scripting
         /// <inheritdoc/>
         public void Execute(Cast cast, Script script)
         {
-            // left
+            // Left
             if (keyboardService.IsKeyDown("a"))
             {
                 direction = new Point(-Constants.CELL_SIZE, 0);
             }
 
-            // right
+            // Right
             if (keyboardService.IsKeyDown("d"))
             {
                 direction = new Point(Constants.CELL_SIZE, 0);
             }
 
-            // up
+            // Up
             if (keyboardService.IsKeyDown("w"))
             {
                 direction = new Point(0, -Constants.CELL_SIZE);
             }
 
-            // down
+            // Down
             if (keyboardService.IsKeyDown("s"))
             {
                 direction = new Point(0, Constants.CELL_SIZE);
             }
+            // Snake 2
+            // Left
+            if (keyboardService.IsKeyDown("j"))
+            {
+                direction2 = new Point(-Constants.CELL_SIZE, 0);
+            }
 
-            Snake snake = (Snake)cast.GetFirstActor("snake");
-            snake.TurnHead(direction);
+            // Right
+            if (keyboardService.IsKeyDown("l"))
+            {
+                direction2 = new Point(Constants.CELL_SIZE, 0);
+            }
 
+            // Up
+            if (keyboardService.IsKeyDown("i"))
+            {
+                direction2 = new Point(0, -Constants.CELL_SIZE);
+            }
+
+            // Down
+            if (keyboardService.IsKeyDown("k"))
+            {
+                direction2 = new Point(0, Constants.CELL_SIZE);
+            }
+            // Snake snake = (Snake)cast.GetFirstActor("snake");
+            List<Actor> snakes = cast.GetActors("snake");
+            Snake snake1 = (Snake) snakes[0];
+            Snake snake2 = (Snake) snakes[1];
+            snake1.TurnHead(direction);
+            snake2.TurnHead(direction2);
         }
     }
 }

@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Unit05/1.0.0": {
+      "assignment_5/1.0.0": {
         "dependencies": {
           "Raylib-cs": "3.7.0.1"
         },
         "runtime": {
-          "Unit05.dll": {}
+          "assignment_5.dll": {}
         }
       },
       "Raylib-cs/3.7.0.1": {
@@ -51,7 +51,7 @@
     }
   },
   "libraries": {
-    "Unit05/1.0.0": {
+    "assignment_5/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

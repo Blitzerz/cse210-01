@@ -1,14 +1,10 @@
 using System.Collections.Generic;
-using Unit05.Game.Casting;
-using Unit05.Game.Services;
+using assignment_5.Game.Casting;
+using assignment_5.Game.Services;
 
 
-namespace Unit05.Game.Scripting
+namespace assignment_5.Game.Scripting
 {
-    /// <summary>
-    /// <para>An output action that draws all the actors.</para>
-    /// <para>The responsibility of DrawActorsAction is to draw each of the actors.</para>
-    /// </summary>
     public class DrawActorsAction : Action
     {
         private VideoService videoService;
@@ -24,16 +20,20 @@ namespace Unit05.Game.Scripting
         /// <inheritdoc/>
         public void Execute(Cast cast, Script script)
         {
-            Snake snake = (Snake)cast.GetFirstActor("snake");
-            List<Actor> segments = snake.GetSegments();
+            List<Actor> snakes = cast.GetActors("snake");
+            Snake snake1 = (Snake) snakes[0];
+            Snake snake2 = (Snake) snakes[1];
+            List<Actor> segments = snake1.GetSegments();
+            List<Actor> segments2 = snake2.GetSegments();
             Actor score = cast.GetFirstActor("score");
-            Actor food = cast.GetFirstActor("food");
+            // Actor food = cast.GetFirstActor("food");
             List<Actor> messages = cast.GetActors("messages");
             
             videoService.ClearBuffer();
             videoService.DrawActors(segments);
+            videoService.DrawActors(segments2);
             videoService.DrawActor(score);
-            videoService.DrawActor(food);
+            // videoService.DrawActor(food);
             videoService.DrawActors(messages);
             videoService.FlushBuffer();
         }

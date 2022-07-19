@@ -1,16 +1,10 @@
 using System.Collections.Generic;
-using Unit05.Game.Casting;
-using Unit05.Game.Services;
+using assignment_5.Game.Casting;
+using assignment_5.Game.Services;
 
 
-namespace Unit05.Game.Scripting
+namespace assignment_5.Game.Scripting
 {
-    /// <summary>
-    /// <para>An update action that moves all the actors.</para>
-    /// <para>
-    /// The responsibility of MoveActorsAction is to move all the actors.
-    /// </para>
-    /// </summary>
     public class MoveActorsAction : Action
     {
         /// <summary>
